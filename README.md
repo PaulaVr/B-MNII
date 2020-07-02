@@ -10,7 +10,7 @@ Libreria de python 3 diseñada como trabajo final para la asignatura de Métodos
 # B-MNII
 Python3 library developed as final work to Numerical Methods II subject.
   
-**Biblioteca_MNII.py**: This library is about numerical methods to find one variable function roots, interpolate and aproximate functions, numerical integrate and initials values problems for differential equations of first and second order.
+**Biblioteca_MNII.py**: This library is about numerical methods to find one variable function roots, interpolate and aproximate functions, numerical integrate and initials values problems for first and second order differential equations.
   
 **Biblioteca_MNII.ipynb**: Solved problems width the library, about every subject.
   

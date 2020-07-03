@@ -20,10 +20,10 @@ Este trabajo ha sido realizado por:
 
 This work has been developed by:
 
-  * Borrás Bonilla, Esteban.
-  * Cintado Puerta, Manuel.
-  * Cores Hermoso, Juan Luis.
-  * Valverde Romero, Paula.
+  * B. B., Esteban.
+  * C. P., Manuel.
+  * C. H., Juan Luis.
+  * V. R., Paula.
   
   *Grado de Matemáticas, Universidad de Cádiz, 2020.*
  

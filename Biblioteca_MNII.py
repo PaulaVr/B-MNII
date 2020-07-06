@@ -4,10 +4,10 @@
 # In[ ]:
 
 #Biblioteca realizada por:
-    #Borrás Bonilla, Esteban.
-    #Cintado Puerta, Manuel.
-    #Cores Hermoso, Juan Luis.
-    #Valverde Romero, Paula.
+    #B. B., Esteban.
+    #C. P., Manuel.
+    #C. H., Juan Luis.
+    #V. R., Paula.
 
 
 
